@@ -1,1 +1,1 @@
-# soap-ui
+SoapUI projects to test microservices coolstore application. 
